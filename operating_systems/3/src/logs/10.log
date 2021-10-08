@@ -1,0 +1,29 @@
+thread 9 start
+level:0 data: 43
+barrier pass
+level:1 data: 32
+barrier pass
+barrier pass
+level:2 data: 75
+level:3 data: 16
+level:4 data: 50
+level:5 data: 14
+level:6 data: 48
+level:7 data: 16
+level:8 data: 39
+update maximum
+level:9 data: 53
+level:10 data: 20
+level:11 data: 13
+level:12 data: 3
+level:13 data: 10
+level:14 data: 57
+level:15 data: 75
+update maximum
+level:16 data: 50
+level:17 data: 46
+update maximum
+level:18 data: 76
+update maximum
+level:19 data: 45
+thread 9 stop

@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "signal.h": "c",
+        "common.h": "c",
+        "user.h": "c",
+        "utility.h": "c",
+        "unistd.h": "c",
+        "network.h": "c",
+        "in.h": "c",
+        "stdlib.h": "c",
+        "values.h": "c",
+        "types.h": "c",
+        "chat.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

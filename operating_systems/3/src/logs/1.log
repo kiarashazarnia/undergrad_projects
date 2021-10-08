@@ -1,0 +1,28 @@
+thread 0 start
+level:0 data: 74
+update maximum
+level:1 data: 18
+level:2 data: 83
+level:3 data: 80
+level:4 data: 82
+update maximum
+level:5 data: 42
+level:6 data: 1
+level:7 data: 47
+level:8 data: 13
+update maximum
+level:9 data: 43
+level:10 data: 30
+level:11 data: 61
+level:12 data: 63
+level:13 data: 33
+level:14 data: 31
+update maximum
+level:15 data: 48
+level:16 data: 82
+update maximum
+level:17 data: 60
+level:18 data: 34
+level:19 data: 98
+update maximum
+thread 0 stop
