@@ -1,0 +1,94 @@
+giant
+i(35)	a(30)	s(85)	alive
+witch
+i(80)	a(30)	s(40)	alive
+goblin
+i(10)	a(90)	s(50)	alive
+dragon
+i(30)	a(50)	s(70)	alive
+____________________________
+ghost
+i(70)	a(40)	s(40)	alive
+archer
+i(40)	a(75)	s(35)	alive
+dragon
+i(30)	a(50)	s(70)	alive
+giant
+i(35)	a(30)	s(85)	alive
+____________________________
+ghost
+i(70)	a(40)	s(50)	alive
+in round 1 killed:
+giant
+i(35)	a(30)	s(85)	died
+----------------------------
+witch
+i(80)	a(30)	s(40)	alive
+goblin
+i(10)	a(90)	s(50)	alive
+dragon
+i(30)	a(50)	s(70)	alive
+____________________________
+ghost
+i(70)	a(40)	s(50)	alive
+archer
+i(40)	a(75)	s(35)	alive
+dragon
+i(30)	a(50)	s(70)	alive
+giant
+i(35)	a(30)	s(85)	alive
+____________________________
+ghost
+i(70)	a(45)	s(55)	alive
+in round 2 killed:
+witch
+i(80)	a(30)	s(40)	died
+----------------------------
+goblin
+i(10)	a(90)	s(50)	alive
+dragon
+i(30)	a(50)	s(70)	alive
+____________________________
+ghost
+i(70)	a(45)	s(55)	alive
+archer
+i(40)	a(75)	s(35)	alive
+dragon
+i(30)	a(50)	s(70)	alive
+giant
+i(35)	a(30)	s(85)	alive
+____________________________
+ghost
+i(80)	a(55)	s(55)	alive
+in round 3 killed:
+goblin
+i(10)	a(90)	s(50)	died
+----------------------------
+dragon
+i(30)	a(50)	s(70)	alive
+____________________________
+ghost
+i(80)	a(55)	s(55)	alive
+archer
+i(40)	a(75)	s(35)	alive
+dragon
+i(30)	a(50)	s(70)	alive
+giant
+i(35)	a(30)	s(85)	alive
+____________________________
+ghost
+i(80)	a(55)	s(65)	alive
+in round 4 killed:
+dragon
+i(30)	a(50)	s(70)	died
+----------------------------
+____________________________
+ghost
+i(80)	a(55)	s(65)	alive
+archer
+i(40)	a(75)	s(35)	alive
+dragon
+i(30)	a(50)	s(70)	alive
+giant
+i(35)	a(30)	s(85)	alive
+____________________________

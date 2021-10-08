@@ -1,0 +1,11 @@
+add <-f first_name> <-l last_name> <-p phone_number> <-e email_address>
+<Command Ok | Command Failed>
+
+search <keyword>
+<id> <first_name> <last_name> <email_aadress> <phone_number>
+
+delete <id>
+<Command Ok | Command Failed>
+
+update <id> [-f first_name] [-l last_name] [-p phone_number] [-e email_address]
+<Command Ok | Command Failed>

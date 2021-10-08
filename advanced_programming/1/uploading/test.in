@@ -1,0 +1,13 @@
+add    -e   a.ahmadi@gmail.com    -l    Ahmadi    -p    09121234567   -f    Ahmad
+add       -p     09121234567     -f Reza       -e r.rezaei@gmail.com     -l   Rezaei
+add    -f   Reza   -e a.ahmadi@gmail.com     -l Rezaei   -p 09127654321
+add    -l     Rezaei    -p 09127654321     -f Ahmad    -e a.rezaei@gmail.com
+update 1 -l   Ahmadi
+update   0 -p   091212345ss
+update 0   -e a.rezaei@gmailcom
+search a.
+delete  1
+delete 3
+add    -e   a.ahmadi@gmail.com    -l    Ahmadi    -p    09121234567   -f    Ahmad
+search    a.
+add -l Mohammadi -p 09129999999 -e m.mohammadi@gmail.com

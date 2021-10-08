@@ -1,0 +1,44 @@
+signup kiarash mrazar 1234
+signup amirmohammad amir 1234
+login amirmohammad 1234
+follow kiarash
+jeek
+text LongTextLongTextLongTextLongTextLongTextLongTextLongTextLongTextLongTextLongTextLongTextLongTextLongTextLongTextLongTextLongTextLongTextLongTextLongTextLongTextLongText
+text Hello world
+tag hi bi
+tag HI
+mention hadi
+comment Jeek1 self comment when not published yet
+publish
+comment Jeek1 self commented after publishing
+login kiarash 1234
+logout
+login kiarash 1234
+comment Jeek1 other commented 1st after publishing
+comment Jeek1 other commented 2nd after publishing
+rejeek Jeek1
+text Hello Gold.
+publish
+like Jeek1
+like Jeek1
+
+showJeek Jeek1
+search @amirmohammad
+search #HI
+
+reply Comment1 are dadach
+reply Reply1 replied on repli1
+
+showReply Reply1
+dislike Jeek2
+dislike Jeek2
+showJeek Jeek2
+showComment Comment1
+logout
+
+login amirmohammad 1234
+notifications
+unfollow kiarash
+logout
+
+//follow search notifications !!!!
