@@ -1,0 +1,119 @@
+{C:/Users/Arash/Desktop/New folder/SignExt8to12.sv} {1 {vlog -work work -sv {C:/Users/Arash/Desktop/New folder/SignExt8to12.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SignExt8to12
+
+Top level modules:
+	SignExt8to12
+
+} {} {}} {C:/Users/Arash/Desktop/New folder/CPU.sv} {1 {vlog -work work -sv {C:/Users/Arash/Desktop/New folder/CPU.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CPU
+
+Top level modules:
+	CPU
+
+} {} {}} {C:/Users/Arash/Desktop/New folder/DataMem.sv} {1 {vlog -work work -sv {C:/Users/Arash/Desktop/New folder/DataMem.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DataMem
+
+Top level modules:
+	DataMem
+
+} {} {}} {C:/Users/Arash/Desktop/New folder/PCreg.sv} {1 {vlog -work work -sv {C:/Users/Arash/Desktop/New folder/PCreg.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} {C:/Users/Arash/Desktop/New folder/Adder12.sv} {1 {vlog -work work -sv {C:/Users/Arash/Desktop/New folder/Adder12.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Adder12
+
+Top level modules:
+	Adder12
+
+} {} {}} {C:/Users/Arash/Desktop/New folder/DP.sv} {1 {vlog -work work -sv {C:/Users/Arash/Desktop/New folder/DP.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DP
+
+Top level modules:
+	DP
+
+} {} {}} {C:/Users/Arash/Desktop/New folder/Controller.sv} {1 {vlog -work work -sv {C:/Users/Arash/Desktop/New folder/Controller.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {C:/Users/Arash/Desktop/New folder/RegisterFile.sv} {1 {vlog -work work -sv {C:/Users/Arash/Desktop/New folder/RegisterFile.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} {C:/Users/Arash/Desktop/New folder/TB.sv} {1 {vlog -work work -sv {C:/Users/Arash/Desktop/New folder/TB.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} {C:/Users/Arash/Desktop/New folder/stack.sv} {1 {vlog -work work -sv {C:/Users/Arash/Desktop/New folder/stack.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module stack
+
+Top level modules:
+	stack
+
+} {} {}} {C:/Users/Arash/Desktop/New folder/InsMem.sv} {1 {vlog -work work -sv {C:/Users/Arash/Desktop/New folder/InsMem.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module InsMemory
+
+Top level modules:
+	InsMemory
+
+} {} {}} {C:/Users/Arash/Desktop/New folder/ALU.sv} {1 {vlog -work work -sv {C:/Users/Arash/Desktop/New folder/ALU.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/Arash/Desktop/New folder/mux.sv} {1 {vlog -work work -sv {C:/Users/Arash/Desktop/New folder/mux.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux2x8bit
+-- Compiling module mux2x1bit
+-- Compiling module mux4x12bit
+-- Compiling module mux4x8bit
+
+Top level modules:
+	mux2x8bit
+	mux2x1bit
+	mux4x12bit
+	mux4x8bit
+
+} {} {}} {C:/Users/Arash/Desktop/New folder/FF.sv} {1 {vlog -work work -sv {C:/Users/Arash/Desktop/New folder/FF.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FF
+
+Top level modules:
+	FF
+
+} {} {}} {C:/Users/Arash/Desktop/New folder/shifter.sv} {1 {vlog -work work -sv {C:/Users/Arash/Desktop/New folder/shifter.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module shifter
+
+Top level modules:
+	shifter
+
+} {} {}} {C:/Users/Arash/Desktop/New folder/PCAdd1.sv} {1 {vlog -work work -sv {C:/Users/Arash/Desktop/New folder/PCAdd1.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PCAdd1
+
+Top level modules:
+	PCAdd1
+
+} {} {}}

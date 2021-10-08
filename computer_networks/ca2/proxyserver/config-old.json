@@ -1,0 +1,8 @@
+{
+    "HOST_NAME": "127.0.0.1",
+    "BIND_PORT": 8080,
+    "LISTEN_QUEUE": 4,
+    "MAX_REQUEST_LEN": 1000,
+    "CONNECTION_TIMEOUT": 1000
+}
+

@@ -1,0 +1,435 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\UT\Term4\CA\CA\2\P
+vAdder12
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z2 !s100 [hdkQ2`YY7m=OPk1=M<<b2
+Z3 IXGP=KBb`bAbK7bn2AXG9V3
+Z4 V=U]gF84?6ON?nOeKVicQU2
+Z5 !s105 Adder12_sv_unit
+S1
+Z6 dC:\Users\Arash\Desktop\New folder
+Z7 w1523031020
+Z8 8C:/Users/Arash/Desktop/New folder/Adder12.sv
+Z9 FC:/Users/Arash/Desktop/New folder/Adder12.sv
+L0 1
+Z10 OV;L;10.1d;51
+r1
+31
+Z11 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Arash/Desktop/New folder/Adder12.sv|
+Z12 o-work work -sv -O0
+Z13 n@adder12
+Z14 !s108 1523414045.935000
+Z15 !s107 C:/Users/Arash/Desktop/New folder/Adder12.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU
+R1
+Z16 !s100 ?AQeVN[lLF6?6H[joO<?D2
+Z17 IVlzGXX?129U7hh06Q9Q<_3
+Z18 VVLK2mS8OP@]WV>WVYhm;j2
+Z19 !s105 ALU_sv_unit
+S1
+R6
+Z20 w1523117598
+Z21 8C:/Users/Arash/Desktop/New folder/ALU.sv
+Z22 FC:/Users/Arash/Desktop/New folder/ALU.sv
+L0 1
+R10
+r1
+31
+Z23 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Arash/Desktop/New folder/ALU.sv|
+R12
+Z24 n@a@l@u
+Z25 !s108 1523414046.169000
+Z26 !s107 C:/Users/Arash/Desktop/New folder/ALU.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontroller
+R1
+Z27 !s100 :R74HETUWJl0=oLO`_[^92
+Z28 IP7^:WhVbV:b^HcdPSaKbZ3
+Z29 V;i[^LD6a=KU<I3^3=;QJ<3
+Z30 !s105 Controller_sv_unit
+S1
+R6
+Z31 w1523030996
+Z32 8C:/Users/Arash/Desktop/New folder/Controller.sv
+Z33 FC:/Users/Arash/Desktop/New folder/Controller.sv
+L0 1
+R10
+r1
+31
+Z34 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Arash/Desktop/New folder/Controller.sv|
+R12
+Z35 !s108 1523414046.372000
+Z36 !s107 C:/Users/Arash/Desktop/New folder/Controller.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vCPU
+R1
+Z37 !s100 :1C:Q1G08F>oV=i=KLEkX0
+Z38 I@;[G;SojA`?OUX8NhUETf3
+Z39 V4>doX_lSHJbC_fN9f@RFA2
+Z40 !s105 CPU_sv_unit
+S1
+R6
+Z41 w1523333726
+Z42 8C:/Users/Arash/Desktop/New folder/CPU.sv
+Z43 FC:/Users/Arash/Desktop/New folder/CPU.sv
+L0 1
+R10
+r1
+31
+Z44 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Arash/Desktop/New folder/CPU.sv|
+R12
+Z45 n@c@p@u
+Z46 !s108 1523414046.594000
+Z47 !s107 C:/Users/Arash/Desktop/New folder/CPU.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vDataMem
+R1
+Z48 I?knM>22GcE8ZU?o`TLaTE2
+Z49 VQZ;<Wag1DSI3oFA9>ZD]o1
+Z50 !s105 DataMem_sv_unit
+S1
+R6
+Z51 w1523414033
+Z52 8C:/Users/Arash/Desktop/New folder/DataMem.sv
+Z53 FC:/Users/Arash/Desktop/New folder/DataMem.sv
+L0 1
+R10
+r1
+31
+Z54 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Arash/Desktop/New folder/DataMem.sv|
+R12
+Z55 n@data@mem
+Z56 !s100 TNgHX>c@V`fG9=UiE<Z7V3
+Z57 !s108 1523414046.813000
+Z58 !s107 C:/Users/Arash/Desktop/New folder/DataMem.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vDP
+R1
+Z59 !s100 6:[G@@Jnf1IUG9I;YGE172
+Z60 IU5G`Hz?CYgdZ3VBa>R5=11
+Z61 V;_6ASW66RAW[KWDHR:ODD2
+Z62 !s105 DP_sv_unit
+S1
+R6
+Z63 w1523411131
+Z64 8C:/Users/Arash/Desktop/New folder/DP.sv
+Z65 FC:/Users/Arash/Desktop/New folder/DP.sv
+L0 1
+R10
+r1
+31
+Z66 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Arash/Desktop/New folder/DP.sv|
+R12
+n@d@p
+Z67 !s108 1523414046.985000
+Z68 !s107 C:/Users/Arash/Desktop/New folder/DP.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vFF
+R1
+Z69 !s100 nO7QU>J^mKi8lhWCn00US1
+Z70 IUgi4SV5?Y@fIR]b5Xdm_F1
+Z71 VUZE=8gl386CGU0DPFNQJo2
+Z72 !s105 FF_sv_unit
+S1
+R6
+Z73 w1523031002
+Z74 8C:/Users/Arash/Desktop/New folder/FF.sv
+Z75 FC:/Users/Arash/Desktop/New folder/FF.sv
+L0 1
+R10
+r1
+31
+Z76 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Arash/Desktop/New folder/FF.sv|
+R12
+n@f@f
+Z77 !s108 1523414047.204000
+Z78 !s107 C:/Users/Arash/Desktop/New folder/FF.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vInsMemory
+R1
+Z79 !s100 E6>l6FhL?8j=NZ?5;=C8=0
+Z80 IJJd=lgcG?32VS]YelmdT`1
+Z81 VdcaVj96U:c`ao@EzDOGf70
+Z82 !s105 InsMem_sv_unit
+S1
+R6
+Z83 w1523413832
+Z84 8C:/Users/Arash/Desktop/New folder/InsMem.sv
+Z85 FC:/Users/Arash/Desktop/New folder/InsMem.sv
+L0 1
+R10
+r1
+31
+Z86 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Arash/Desktop/New folder/InsMem.sv|
+R12
+Z87 n@ins@memory
+Z88 !s108 1523414047.391000
+Z89 !s107 C:/Users/Arash/Desktop/New folder/InsMem.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2x1bit
+R1
+Z90 !s100 6INC729?4hQjY>K5UFRm>3
+Z91 IKR76Q`f7MA[Ok6IOX4d<<0
+Z92 V:TQN9Ho<VdKINm5dNcVf@3
+Z93 !s105 mux_sv_unit
+S1
+R6
+Z94 w1523031004
+Z95 8C:/Users/Arash/Desktop/New folder/mux.sv
+Z96 FC:/Users/Arash/Desktop/New folder/mux.sv
+L0 10
+R10
+r1
+31
+Z97 !s108 1523414047.594000
+Z98 !s107 C:/Users/Arash/Desktop/New folder/mux.sv|
+Z99 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Arash/Desktop/New folder/mux.sv|
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2x8bit
+R1
+Z100 !s100 NMRdYS=R^SUIk?[B0JSgM3
+Z101 InXezJlfKmaI2NWGP0hL`52
+Z102 V@hn9B`hUB0VfH:bfF[n_E3
+R93
+S1
+R6
+R94
+R95
+R96
+L0 1
+R10
+r1
+31
+R97
+R98
+R99
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vmux4x12bit
+R1
+Z103 !s100 PU9X2@06E_`:>Sj5F8HQY1
+Z104 IlhNg;6:@nWUnG4U1XS1WB0
+Z105 VFgnjgiID8Dd;B<aYo`AL?2
+R93
+S1
+R6
+R94
+R95
+R96
+L0 19
+R10
+r1
+31
+R97
+R98
+R99
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vmux4x8bit
+R1
+Z106 !s100 5d305FCdY7PafWP<dQP^[1
+Z107 IXVQO<5Fag93OP4KZ8d2J>3
+Z108 VR?H4=04EEhj]MK7cd?>m=2
+R93
+S1
+R6
+R94
+R95
+R96
+L0 43
+R10
+r1
+31
+R97
+R98
+R99
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vPC
+R1
+Z109 !s100 0_VWWS_@M__G[J?0A__TK2
+Z110 I`<i0dT;k834UU?^nWzoj`2
+Z111 V17a8LRdf9GAQ]g`Fl5E^U3
+Z112 !s105 PCreg_sv_unit
+S1
+R6
+Z113 w1523031006
+Z114 8C:/Users/Arash/Desktop/New folder/PCreg.sv
+Z115 FC:/Users/Arash/Desktop/New folder/PCreg.sv
+L0 1
+R10
+r1
+31
+Z116 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Arash/Desktop/New folder/PCreg.sv|
+R12
+n@p@c
+Z117 !s108 1523414048.422000
+Z118 !s107 C:/Users/Arash/Desktop/New folder/PCreg.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vPCAdd1
+R1
+Z119 !s100 AT4H?m8E0FQ]l:@ATAT`72
+Z120 INMRUl16b:lcDca04WRRC50
+Z121 V@;PVf;C9Ozz3:iUKP;99o1
+Z122 !s105 PCAdd1_sv_unit
+S1
+R6
+R113
+Z123 8C:/Users/Arash/Desktop/New folder/PCAdd1.sv
+Z124 FC:/Users/Arash/Desktop/New folder/PCAdd1.sv
+L0 1
+R10
+r1
+31
+Z125 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Arash/Desktop/New folder/PCAdd1.sv|
+R12
+Z126 n@p@c@add1
+Z127 !s108 1523414048.188000
+Z128 !s107 C:/Users/Arash/Desktop/New folder/PCAdd1.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegisterFile
+R1
+Z129 !s100 E<O=j8bAoj_of<`gj?ET23
+Z130 I0]WFI_RB?I17P0Y`dFh>93
+Z131 VDWH<^UZ[BMQ4bn^E0QVAl0
+Z132 !s105 RegisterFile_sv_unit
+S1
+R6
+Z133 w1523330704
+Z134 8C:/Users/Arash/Desktop/New folder/RegisterFile.sv
+Z135 FC:/Users/Arash/Desktop/New folder/RegisterFile.sv
+L0 1
+R10
+r1
+31
+Z136 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Arash/Desktop/New folder/RegisterFile.sv|
+R12
+Z137 n@register@file
+Z138 !s108 1523414048.626000
+Z139 !s107 C:/Users/Arash/Desktop/New folder/RegisterFile.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vshifter
+R1
+Z140 !s100 =di23NcZcOl^>S@fo]a_E2
+Z141 IoT1I2Re<R4a0^L^e9kPo42
+Z142 Vi4NS3b@CXm1zz;6Wg5RYB2
+Z143 !s105 shifter_sv_unit
+S1
+R6
+Z144 w1523031008
+Z145 8C:/Users/Arash/Desktop/New folder/shifter.sv
+Z146 FC:/Users/Arash/Desktop/New folder/shifter.sv
+L0 1
+R10
+r1
+31
+Z147 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Arash/Desktop/New folder/shifter.sv|
+R12
+Z148 !s108 1523414048.813000
+Z149 !s107 C:/Users/Arash/Desktop/New folder/shifter.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vSignExt8to12
+R1
+Z150 !s100 [BJ?e]U68n6VFFn6]m9k52
+Z151 IkUQZ8BX]U84d6=kaG@YdT2
+Z152 VRA@^Be3J`ZM27hd6]IPOf3
+Z153 !s105 SignExt8to12_sv_unit
+S1
+R6
+R144
+Z154 8C:/Users/Arash/Desktop/New folder/SignExt8to12.sv
+Z155 FC:/Users/Arash/Desktop/New folder/SignExt8to12.sv
+L0 1
+R10
+r1
+31
+Z156 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Arash/Desktop/New folder/SignExt8to12.sv|
+R12
+Z157 n@sign@ext8to12
+Z158 !s108 1523414049.032000
+Z159 !s107 C:/Users/Arash/Desktop/New folder/SignExt8to12.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vstack
+R1
+Z160 !s100 YJ6OV18nKl2ek5Koh6EZd0
+Z161 IIG[=;b[0mf2efb]QdHaJL3
+Z162 VJRVmPPi9IM6PJ61G5BSg:2
+Z163 !s105 stack_sv_unit
+S1
+R6
+Z164 w1523329506
+Z165 8C:/Users/Arash/Desktop/New folder/stack.sv
+Z166 FC:/Users/Arash/Desktop/New folder/stack.sv
+L0 1
+R10
+r1
+31
+Z167 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Arash/Desktop/New folder/stack.sv|
+R12
+!i10b 1
+!s85 0
+Z168 !s108 1523414049.251000
+Z169 !s107 C:/Users/Arash/Desktop/New folder/stack.sv|
+!s101 -O0
+vTB
+R1
+!i10b 1
+Z170 !s100 `GJ2nG:iFEd>R>[HIiXg=0
+Z171 IUHCNgLoekTTEJcPdYZ^kZ3
+Z172 Vc<=32996OT2f`M7E_UhYX1
+Z173 !s105 TB_sv_unit
+S1
+R6
+Z174 w1523413651
+Z175 8C:/Users/Arash/Desktop/New folder/TB.sv
+Z176 FC:/Users/Arash/Desktop/New folder/TB.sv
+L0 2
+R10
+r1
+!s85 0
+31
+!s108 1523414049.563000
+!s107 C:/Users/Arash/Desktop/New folder/TB.sv|
+Z177 !s90 -reportprogress|300|-work|work|-sv|C:/Users/Arash/Desktop/New folder/TB.sv|
+!s101 -O0
+R12
+n@t@b
